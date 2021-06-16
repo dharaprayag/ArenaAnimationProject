@@ -1,0 +1,63 @@
+<style>
+    .caption
+    {
+        background-color: #dc3546;
+        color: white;
+        padding: 5px;
+        text-align: center;        
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+    }
+    .logotext
+    {
+        color: white;
+        font-family: cursive;
+        font-weight: bold;
+        font-size: 32px;
+    }
+    .logobackground
+    {
+        background-color: #dc3546;
+    }
+    .rounded-circle
+    {
+        border-radius: 50%;
+        padding-top: ;
+    }
+    .seminars
+    {
+        padding-top: 10px;
+        text-align: justify;
+        color: #0b3f4c;
+    }
+    .seminars div h2
+    {
+        color: #dc3546;
+        font-weight: bold;
+        font-family: sans-serif;
+    }
+    .seminars div p
+    {
+        font-family: Arial, Helvetica, sans-serif;
+        line-height: 28px;
+    }
+    .footer
+    {
+        font-size: 13px;
+    }
+    .salesevents
+    {
+        padding-top: 15px;
+    }
+    .salesevents ul li a 
+    {
+        color: white;
+        font-size: 15px;
+    }
+    .allrightsreserved p
+    {
+        text-align: center;
+        padding-top: 13px;
+        font-size: 13px;
+        color: black;
+    }
+    </style>

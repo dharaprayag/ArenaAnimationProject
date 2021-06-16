@@ -1,0 +1,626 @@
+
+    .logotext
+    {
+        color: white;
+        font-family: cursive;
+        font-weight: bold;
+        font-size: 32px;
+    }
+    .caption
+    {
+        background-color: #dc3546;
+        color: white;
+        padding: 5px;
+        text-align: center;        
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+    }
+    .seminars
+    {
+        padding-top: 10px;
+        text-align: justify;
+        color: #0b3f4c;
+    }
+    .footer
+    {
+        font-size: 13px;
+    }
+    .salesevents
+    {
+        padding-top: 15px;
+    }
+    .salesevents ul li a 
+    {
+        color: white;
+        font-size: 15px;
+    }
+    .allrightsreserved p
+    {
+        text-align: center;
+        padding-top: 13px;
+        font-size: 13px;
+        color: black;
+    }
+    
+    .caption
+    {
+        background-color: #dc3546;
+        color: white;
+        padding: 5px;
+        text-align: center;        
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+    }
+    .logotext
+    {
+        color: white;
+        font-family: cursive;
+        font-weight: bold;
+        font-size: 32px;
+    }
+    .logobackground
+    {
+        background-color: #dc3546;
+    }
+    .rounded-circle
+    {
+        border-radius: 50%;
+    }
+    .seminars
+    {
+        padding-top: 10px;
+        text-align: justify;
+        color: #0b3f4c;
+    }
+    .seminars div h2
+    {
+        color: #dc3546;
+        font-weight: bold;
+        font-family: sans-serif;
+    }
+    .seminars div p
+    {
+        font-family: Arial, Helvetica, sans-serif;
+        line-height: 28px;
+    }
+    .footer
+    {
+        font-size: 13px;
+    }
+    .salesevents
+    {
+        padding-top: 15px;
+    }
+    .salesevents ul li a 
+    {
+        color: white;
+        font-size: 15px;
+    }
+    .allrightsreserved p
+    {
+        text-align: center;
+        padding-top: 13px;
+        font-size: 13px;
+        color: black;
+    }
+
+    
+    .logotext
+    {
+        color: white;
+        font-family: cursive;
+        font-weight: bold;
+        font-size: 32px;
+    }
+    .logobackground
+    {
+        background-color: #dc3546;
+    }
+    .rounded-circle
+    {
+        border-radius: 50%;
+    }
+    .seminars
+    {
+        padding-top: 10px;
+        text-align: justify;
+        color: #0b3f4c;
+    }
+    .seminars div h2
+    {
+        color: #dc3546;
+        font-weight: bold;
+        font-family: sans-serif;
+    }
+    .seminars div p
+    {
+        font-family: Arial, Helvetica, sans-serif;
+        line-height: 28px;
+    }
+    .footer
+    {
+        font-size: 13px;
+    }
+    .salesevents
+    {
+        padding-top: 15px;
+    }
+    .salesevents ul li a 
+    {
+        color: white;
+        font-size: 15px;
+    }
+    .caption
+    {
+        background-color: #dc3546;
+        color: white;
+        padding: 5px;
+        text-align: center;        
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+    }
+    .allrightsreserved p
+    {
+        text-align: center;
+        padding-top: 13px;
+        font-size: 13px;
+        color: black;
+    }
+
+    
+    .logotext
+    {
+        color: white;
+        font-family: cursive;
+        font-weight: bold;
+        font-size: 32px;
+    }
+    .logobackground
+    {
+        background-color: #dc3546;
+    }
+    .rounded-circle
+    {
+        border-radius: 50%;
+    }
+    .seminars
+    {
+        padding-top: 10px;
+        text-align: justify;
+        color: #0b3f4c;
+    }
+    .seminars div h2
+    {
+        color: #dc3546;
+        font-weight: bold;
+        font-family: sans-serif;
+    }
+    .seminars div p
+    {
+        font-family: Arial, Helvetica, sans-serif;
+        line-height: 28px;
+    }
+    .footer
+    {
+        font-size: 13px;
+    }
+    .salesevents
+    {
+        padding-top: 15px;
+    }
+    .salesevents ul li a 
+    {
+        color: white;
+        font-size: 15px;
+    }
+    .caption
+    {
+        background-color: #dc3546;
+        color: white;
+        padding: 5px;
+        text-align: center;        
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+    }
+    .allrightsreserved p
+    {
+        text-align: center;
+        padding-top: 13px;
+        font-size: 13px;
+        color: black;
+    }
+    .hide 
+    {
+        display: none;
+    }
+    
+    .myDIV:hover + .hide 
+    {
+        display: block;
+        color: red;
+    }
+    
+    /* Office party start*/
+
+    .logotext
+    {
+        color: white;
+        font-family: cursive;
+        font-weight: bold;
+        font-size: 32px;
+    }
+    .logobackground
+    {
+        background-color: #dc3546;
+    }
+    .rounded-circle
+    {
+        border-radius: 50%;
+    }
+    .seminars
+    {
+        padding-top: 10px;
+        text-align: justify;
+        color: #0b3f4c;
+    }
+    .seminars div h2
+    {
+        color: #dc3546;
+        font-weight: bold;
+        font-family: sans-serif;
+    }
+    .seminars div p
+    {
+        font-family: Arial, Helvetica, sans-serif;
+        line-height: 28px;
+    }
+    .footer
+    {
+        font-size: 13px;
+    }
+    .salesevents
+    {
+        padding-top: 15px;
+    }
+    .salesevents ul li a 
+    {
+        color: white;
+        font-size: 15px;
+    }
+    .caption
+    {
+        background-color: #dc3546;
+        color: white;
+        padding: 5px;
+        text-align: center;        
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+    }
+    .allrightsreserved p
+    {
+        text-align: center;
+        padding-top: 13px;
+        font-size: 13px;
+        color: black;
+    }
+    .hide 
+    {
+        display: none;
+    }
+    
+    .myDIV:hover + .hide 
+    {
+        display: block;
+        color: red;
+    }
+
+    /* Office party finish*/
+
+    /* Birthday party start*/
+    .logotext
+    {
+        color: white;
+        font-family: cursive;
+        font-weight: bold;
+        font-size: 32px;
+    }
+    .logobackground
+    {
+        background-color: #dc3546;
+    }
+    .rounded-circle
+    {
+        border-radius: 50%;
+    }
+    .seminars
+    {
+        padding-top: 10px;
+        text-align: justify;
+        color: #0b3f4c;
+    }
+    .card h4
+    {
+        color: #dc3546;
+    }
+    .seminars div h2
+    {
+        color: #dc3546;
+        font-weight: bold;
+        font-family: sans-serif;
+    }
+    .seminars div p
+    {
+        font-family: Arial, Helvetica, sans-serif;
+        line-height: 28px;
+    }
+    .footer
+    {
+        font-size: 13px;
+    }
+    .salesevents
+    {
+        padding-top: 15px;
+    }
+    .salesevents ul li a 
+    {
+        color: white;
+        font-size: 15px;
+    }
+    .caption
+    {
+        background-color: #dc3546;
+        color: white;
+        padding: 5px;
+        text-align: center;        
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+    }
+    .allrightsreserved p
+    {
+        text-align: center;
+        padding-top: 13px;
+        font-size: 13px;
+        color: black;
+    }
+    .hide 
+    {
+        display: none;
+    }
+    
+    .myDIV:hover + .hide 
+    {
+        display: block;
+        color: red;
+    }
+    /* Birthday party finish*/
+
+    /* wedding start*/
+    .logotext
+    {
+        color: white;
+        font-family: cursive;
+        font-weight: bold;
+        font-size: 32px;
+    }
+    .logobackground
+    {
+        background-color: #dc3546;
+    }
+    .rounded-circle
+    {
+        border-radius: 50%;
+    }
+    .seminars
+    {
+        padding-top: 10px;
+        text-align: justify;
+        color: #0b3f4c;
+    }
+    .card h4
+    {
+        color: #dc3546;
+    }
+    .seminars div h2
+    {
+        color: #dc3546;
+        font-weight: bold;
+        font-family: sans-serif;
+    }
+    .seminars div p
+    {
+        font-family: Arial, Helvetica, sans-serif;
+        line-height: 28px;
+    }
+    .footer
+    {
+        font-size: 13px;
+    }
+    .salesevents
+    {
+        padding-top: 15px;
+    }
+    .salesevents ul li a 
+    {
+        color: white;
+        font-size: 15px;
+    }
+    .caption
+    {
+        background-color: #dc3546;
+        color: white;
+        padding: 5px;
+        text-align: center;        
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+    }
+    .allrightsreserved p
+    {
+        text-align: center;
+        padding-top: 13px;
+        font-size: 13px;
+        color: black;
+    }
+    /* wedding finish*/
+
+    /* wedding reception start*/
+    .logotext
+    {
+        color: white;
+        font-family: cursive;
+        font-weight: bold;
+        font-size: 32px;
+    }
+    .logobackground
+    {
+        background-color: #dc3546;
+    }
+    .rounded-circle
+    {
+        border-radius: 50%;        
+    }
+    .seminars
+    {
+        padding-top: 10px;
+        text-align: justify;
+        color: #0b3f4c;
+    }
+    .card h4
+    {
+        color: #dc3546;
+    }
+    .seminars div h2
+    {
+        color: #dc3546;
+        font-weight: bold;
+        font-family: sans-serif;
+    }
+    .seminars div p
+    {
+        font-family: Arial, Helvetica, sans-serif;
+        line-height: 28px;
+    }
+    .footer
+    {
+        font-size: 13px;
+    }
+    .salesevents
+    {
+        padding-top: 15px;
+    }
+    .salesevents ul li a 
+    {
+        color: white;
+        font-size: 15px;
+    }
+    .caption
+    {
+        background-color: #dc3546;
+        color: white;
+        padding: 5px;
+        text-align: center;        
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+    }
+    .allrightsreserved p
+    {
+        text-align: center;
+        padding-top: 13px;
+        font-size: 13px;
+        color: black;
+    }
+
+    /* wedding reception finish*/
+
+    /* registration signin page start*/
+    .container
+                {
+                    position: relative;
+                    font-family: Verdana, Geneva, Tahoma, sans-serif;
+                }
+                .text-block
+                {
+                    position: absolute; 
+                    bottom: 450px;
+                    right: 43px;
+                    font-size: 55px;
+                    color: white;
+                }
+                .welcometext
+                {
+                    position:absolute;
+                    font-size: 17.5px;
+                    font-family:Arial, Helvetica, sans-serif;
+                    padding-left: 0px;                                     
+                }
+                .existinguser
+                {
+                    position: absolute;
+                    bottom: 220px;
+                    color: white;
+                    font-size: 15px;
+                    padding-left: 90px;
+                }
+                .signinbutton
+                {
+                    position: absolute;
+                    bottom: 180px;
+                    padding-left: 130px;
+                    color: white;
+                    font-size: 15px;
+                }
+                .signupform
+                {
+                    position: absolute;
+                    bottom: 735px;
+                    color: white;
+                    font-family:Verdana, Geneva, Tahoma, sans-serif;  
+                }                
+                .eventregistrationform
+                {
+                    padding-left: 135px;
+                    padding-top: 50px;
+                    font-weight: bold;
+                    font-size: 35px;         
+                }
+                .tableform
+                {
+                    position: absolute;
+                    align-items: center;
+                    padding-left: 100px;
+                }
+                .logotext
+                {
+                    color: white;
+                    font-family: cursive;
+                    font-weight: bold;
+                    font-size: 32px;
+                }
+
+    /* registration signin page finish*/
+
+    /* Resisteredsigninpage start*/
+    .container
+                {
+                    position: relative;
+                    
+                }
+                .userbox
+                {
+                    position: absolute;
+                    margin-left: 160px;
+                    bottom: 100px;                  
+                }
+                .registereduser
+                {
+                    font-size: 35px;
+                    color: white;
+                }
+                .firstname
+                {
+                    font-size: 20px;
+                    color: white;
+                    font-weight: bold;
+                }
+                
+    /*    Resisteredsigninpage finish*/
+
+    /*    Resisteredsigninpage2 start*/
+
+    
+    
+    
+    /*    Resisteredsigninpage2 finish*/
+
+    

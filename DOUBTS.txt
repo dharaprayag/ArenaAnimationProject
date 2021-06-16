@@ -1,0 +1,2 @@
+1. how to active home tab?
+2. how to common header and footer section ?
